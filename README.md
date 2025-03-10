@@ -28,7 +28,10 @@
 ![](https://github-profile-trophy.vercel.app/?username=Jacknguyen999&theme=radical&no-frame=true&no-bg=false&margin-w=4)
 
 ### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=gruvbox)
+
+<div align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=gruvbox" alt="Random Dev Quote">
+</div>
 
 <!--
 ### 🔝 Top Contributed Repo
