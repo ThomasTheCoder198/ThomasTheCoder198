@@ -36,11 +36,10 @@
 ---
 [![](https://visitcount.itsvg.in/api?id=Jacknguyen999&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Jacknguyen999/Jacknguyen999/output/github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Jacknguyen999/Jacknguyen999/output/github-snake.svg" />
-  </picture>
-<img src="https://raw.githubusercontent.com/Jacknguyen999/Jacknguyen999/output/snake.svg" alt="Snake animation" />
+<div align="center">
+    
+  ![snake gif](https://github.com/TechnologyHell/TechnologyHell/blob/output/github-snake-dark.svg)
+</div>
 
 
 ###
