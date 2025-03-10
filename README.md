@@ -38,12 +38,12 @@
 
 <div align="center">
     
-  ![snake gif](https://github.com/TechnologyHell/TechnologyHell/blob/output/github-snake-dark.svg)
+  ![snake gif](https://github.com/Jacknguyen999/Jacknguyen999/blob/output/github-snake-dark.svg)
 </div>
 
 
 ###
-
+<div align="left">
 ![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=31idhczqnydcze4nfoolohgfkcey&count=2&width=400)
-
+</div>
 
