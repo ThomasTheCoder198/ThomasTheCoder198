@@ -43,7 +43,7 @@
 
 
 ###
-<div align="left">
+<div align="center">
 ![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=31idhczqnydcze4nfoolohgfkcey&count=2&width=400)
 </div>
 
