@@ -21,7 +21,7 @@
 # 📊 GitHub Stats:
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api?username=Jacknguyen999&show_icons=true&locale=en" alt="Jacknguyen999" /></p>
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Jacknguyen999&" alt="Jacknguyen999" /></p>
+<!-- <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Jacknguyen999&" alt="Jacknguyen999" /></p> -->
 
 
 ## 🏆 GitHub Trophies
@@ -42,7 +42,7 @@
 </div>
 
 
-###
+
 
 ![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=31idhczqnydcze4nfoolohgfkcey&count=2&width=400)
 
