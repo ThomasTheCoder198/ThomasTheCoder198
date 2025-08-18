@@ -1,5 +1,5 @@
 # 💫 About Me:
-👋 I’m currently working on innovative web applications and open-source projects.<br>🔭 I’m currently learning advanced JavaScript frameworks and Go technologies.<br>👯 I’m looking to collaborate on open-source projects that make a difference.<br>📫 How to reach me: tienanhnguyen999@gmail.com<br>⚡ Fun fact: When I'm not coding, I love collecting figures!
+👋 I’m currently working on innovative web applications and open-source projects.<br>🔭 I’m currently Go (backend) pro .<br>👯 I’m looking to collaborate on open-source projects that make a difference.<br>📫 How to reach me: tienanhnguyen999@gmail.com<br>⚡ Fun fact: When I'm not coding, I love collecting figures!
 
 
 ## 🌐 Socials:
@@ -43,7 +43,17 @@
 -->
 <div align="center">
     
-  ![snake gif](https://github.com/Jacknguyen999/Jacknguyen999/blob/output/github-snake-dark.svg)
+  <picture>
+  <source
+    media="(prefers-color-scheme: dark)"
+    srcset="images/breakout-dark.svg"
+  />
+  <source
+    media="(prefers-color-scheme: light)"
+    srcset="images/breakout-light.svg"
+  />
+  <img alt="Breakout Game" src="images/breakout-light.svg" />
+</picture>
 
 
 
