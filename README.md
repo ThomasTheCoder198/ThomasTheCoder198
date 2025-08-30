@@ -1,5 +1,5 @@
 # 💫 About Me:
-👋 I’m currently working on innovative web applications and open-source projects.<br>🔭 I’m currently Go (backend) pro .<br>👯 I’m looking to collaborate on open-source projects that make a difference.<br>📫 How to reach me: tienanhnguyen999@gmail.com<br>⚡ Fun fact: When I'm not coding, I love collecting figures!
+👋 I’m currently working on innovative web applications and open-source projects.<br>🔭 I’m currently leanrning Golang  .<br>👯 I’m looking to collaborate on open-source projects that make a difference.<br>📫 How to reach me: tienanhnguyen999@gmail.com<br>⚡ Fun fact: When I'm not coding, I love collecting figures!
 
 
 ## 🌐 Socials:
