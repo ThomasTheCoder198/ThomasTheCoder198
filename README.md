@@ -5,11 +5,6 @@
   </a>
 </p>
 
-<h1 align="center">Hi, I'm Thomas</h1>
-<p align="center">
-  Backend-leaning full-stack dev. I build pragmatic web apps and contribute to OSS.
-</p>
-
 ---
 
 ## 💫 About Me
