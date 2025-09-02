@@ -1,7 +1,7 @@
 <!-- Top banner: clickable GIF that opens the MP4 -->
 <p align="center">
-  <a href="assets/paper-animation.mp4">
-    <img src="assets/paper-animation.gif" alt="Intro banner" width="100%">
+  <a href="paper-animation.mp4">
+    <img src="paper-animation.gif" alt="Intro banner" width="100%">
   </a>
 </p>
 
