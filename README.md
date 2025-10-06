@@ -38,13 +38,13 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Jacknguyen999&show_icons=true&theme=default" alt="Jacknguyen999 stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=ThomasTheCoder198&show_icons=true&theme=default" alt="Jacknguyen999 stats" />
 </p>
 
 ## 🏆 GitHub Trophies
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Jacknguyen999&theme=radical&no-frame=true&no-bg=false&margin-w=4" alt="trophies" />
+  <img src="https://github-profile-trophy.vercel.app/?username=ThomasTheCoder198&theme=radical&no-frame=true&no-bg=false&margin-w=4" alt="trophies" />
 </p>
 
 ## ✍️ Random Dev Quote
